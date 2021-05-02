@@ -51,3 +51,7 @@ Você pode acessar o Layout do projeto através do link abaixo:
 - [Layout Web](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr?node-id=160%3A2761) 
 
 Lembre-se que você precisa ter uma conta [Figma](http://figma.com/) para acessar.
+
+<h3>
+    Feito com ❤️ por <a href="https://www.linkedin.com/feed/">Matheus Paula Frazão</a>
+</h3>
