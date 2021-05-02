@@ -53,5 +53,5 @@ Você pode acessar o Layout do projeto através do link abaixo:
 Lembre-se que você precisa ter uma conta [Figma](http://figma.com/) para acessar.
 
 <h3>
-    Feito com ❤️ por <a href="https://www.linkedin.com/feed/">Matheus Paula Frazão</a>
+    Feito com ❤️ por <a href="https://www.linkedin.com/in/matheus-paula-frazao-5b7284202/">Matheus Paula Frazão</a>
 </h3>
