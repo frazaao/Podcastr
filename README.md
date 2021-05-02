@@ -6,16 +6,17 @@
     <img src="./.github/Podcastr.PNG" alt="Home | Podcastr">
 </h1>
 
-##💻 Tecnologias
+## 💻 Tecnologias
 
 O projeto foi desenvolvido usando as tenologias:
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
-##🎧 Podcastr
+## 🎧 Podcastr
+
 <h3 align="center">
-[Podcastr](https://podcastr-orpin-xi.vercel.app/)
+<a href="https://podcastr-orpin-xi.vercel.app/">Podcastr</a>
 </h3>
 
 Podcastr é uma plataforma de streaming do Podcast **[FalaDev](https://open.spotify.com/show/3TNsKUGlP9YbV1pgy3ACrW)**
